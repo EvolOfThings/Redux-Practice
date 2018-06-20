@@ -9,6 +9,7 @@ class App extends Component {
       <div className="App">
        <Counter />
        <h1 {{textAlign:'center'}}>Redux</h1>
+       <p>Github Streak</p>
        <footer>Redux practice</footer>
       </div>
     );
