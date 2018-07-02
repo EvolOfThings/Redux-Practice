@@ -10,7 +10,7 @@ class App extends Component {
        <Counter />
        <h1 {{textAlign:'center'}}>Redux</h1>
 
-       <footer>Redux practice</footer>
+       <footer>The beginning of the end of I</footer>
       </div>
     );
   }
