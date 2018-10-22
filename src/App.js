@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
        <Counter />
-       <h1 {{textAlign:'center'}}>Redux</h1>
+       <h1>Redux</h1>
 
        <footer>Redux practice</footer>
       </div>
