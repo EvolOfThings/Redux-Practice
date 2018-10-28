@@ -11,6 +11,7 @@ class App extends Component {
        <h1>Redux</h1>
 
        <footer>Redux practice</footer>
+       <p>Redux learning project</p>
       </div>
     );
   }
